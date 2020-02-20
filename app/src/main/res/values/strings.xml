@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessibilityDebug</string>
+    <string name="accessibility_service_label">TyraelAccessibilityDebug</string>
+    <string name="accessibility_service_description">Tyrael Accessibility service description</string>
+</resources>
